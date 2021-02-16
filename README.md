@@ -2,7 +2,7 @@
 Change the scrap price for each vehicle, and if needed with permissions
 
 ## Permissions
-*  ``vehiclevendorsettings.all`` - Gives permission to all of of the permissions below
+*  ``vehiclevendorsettings.all`` - Gives permission to all of the permissions below
 *  ``vehiclevendorsettings.minicopter``
 *  ``vehiclevendorsettings.transportscraphelicopter``
 * ``vehiclevendorsettings.rowboat``

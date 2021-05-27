@@ -1,3 +1,5 @@
+The same thing can be found in uMod with more settings [here](https://umod.org/plugins/vehicle-vendor-options)!
+
 # VehicleVendorSettings
 Change the scrap price for each vehicle, and if needed with permissions
 
